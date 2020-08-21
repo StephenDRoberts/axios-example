@@ -1,6 +1,6 @@
 # Simple Axios example using Typescript & React
 
-See writeup in following [blog post]().
+See writeup in following [blog post](https://codingrabbithole.com/typescript-react-fetch-array-data-using-axios/).
 
 ---
 
